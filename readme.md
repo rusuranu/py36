@@ -1,4 +1,6 @@
 ### Галлерея "36" клуба Дальномер.
-Телеграм бот.https://t.me/gallery36best
+Телеграм бот. https://t.me/gallery36best
+***
 Публикует картинки из галерии "36" клуба дальномер.
-[Галерея Клуба Дальномер - ТОП 36] (https://rangefinder.ru/glr/showtopgallery.php)
+***
+[Галерея Клуба Дальномер - ТОП 36](https://rangefinder.ru/glr/showtopgallery.php)
